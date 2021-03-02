@@ -5,6 +5,8 @@ Easy-to-use visual environment for predictive analytics. No programming required
 
 This project contains the open source core of [RapidMiner Studio](https://rapidminer.com/studio).
 
+This project is made for an assignment. The purpose of this project is to show the charts that have been produced in RapidMiner in a Java application. 
+
 ## Getting Started
 
 * [Install](https://rapidminer.com/products/studio/) RapidMiner Studio
